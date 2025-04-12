@@ -1,7 +1,7 @@
-# React E-Commerce Web Application 🛒
+# E-Commerce  Application 🛒
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![React](https://img.shields.io/badge/React-18.0.0-blue)](https://reactjs.org/)
+
 [![Auth0](https://img.shields.io/badge/Auth0-Integrated-orange)](https://auth0.com/)
 
 A modern, responsive e-commerce web application built with React, featuring user authentication, product browsing, and an intuitive shopping experience.
