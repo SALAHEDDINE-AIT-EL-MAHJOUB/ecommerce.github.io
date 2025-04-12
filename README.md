@@ -6,7 +6,7 @@
 
 A modern, responsive e-commerce web application built with React, featuring user authentication, product browsing, and an intuitive shopping experience.
 
-![E-commerce Preview](https://via.placeholder.com/800x400?text=E-Commerce+App+Preview)
+
 
 ## ✨ Features
 
@@ -70,19 +70,8 @@ Streamlined checkout process
 User order history tracking
 Payment gateway integration
 
-🖼️ Screenshots
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://via.placeholder.com/400x200?text=Home+Page" alt="Home Page" width="45%">
-    <img src="https://via.placeholder.com/400x200?text=Product+Page" alt="Product Page" width="45%">
-</div>
+
 🤝 Contributing
 Contributions are always welcome!
 
-Fork the repository
-Create a feature branch (git checkout -b feature/amazing-feature)
-Commit your changes (git commit -m 'Add some amazing feature')
-Push to the branch (git push origin feature/amazing-feature)
-Open a Pull Request
 
-📄 License
-This project is licensed under the MIT License.
